@@ -17,11 +17,11 @@ https://www.patreon.com/user?u=32588184 Donate
 Marlin-2.0.5.2-SKR-1.4-TURBO-with-TMC2209-BLT-FILAMENT-LINADVANCE-JUNKTION-DEVIATION-and-wifi- # Marlin-2.0.5.2-SKR-1.4-TURBO-with-TMC2209-BLT-FILAMENT -LINADVANCE-Junktion-ОТКЛОНЕНИЕ-и-wifi-
 http://marlinfw.org Marlin 2.0.5.2 SKR 1.4 TURBO с TMC2209. BLtouch> Lin Advance> Датчик накаливания> Хлам. Dev.> WIFI> FiL Change> EN> DE> FR> RU
 
-Предназначен для Ender 3 / Ender 3 PRO с платой SKR 1.4 TURBO и драйверами TMC2209. Подготовка платы: контакты должны быть подключены, чтобы они не входили в разъем для подключения датчика к разъему EODET (P_26), BLTOUCH должен быть подключен к выделенному серверу (см. Руководство)
+for Ender 3 / Ender 3 PRO with SKR 1.4 TURBO board and TMC2209 drivers. Board preparation: Diag pins should not be plugged in, they can be removed or bent. Filament sensor must be connected to the EODET connector (P_26), BLTOUCH must be connected to the dedicated connector (see the Manual)
 
-Если у вас есть ESP01S, вы можете выбрать файл EN WIFI, эта прошивка настроена для него. Вы можете выбрать соответствующий датчик, который можно отключить через меню Линейный переход на сегодняшний день стал настоящей печатью. настроить его по ссылке https://marlinfw.org/tools/lin_advance/k-factor.html
+If you have ESP01S, you can select the EN WIFI file, this firmware is configured for it. Filament sensor is turned off via menu. linear advance is today an important part of printing. configure it at https://marlinfw.org/tools/lin_advance/k-factor.html
 
-Это должно отрегулировать количество шагов на мм.
+It is necessary to adjust the steps of the extruder. you can do it through the menu
 
 
 
