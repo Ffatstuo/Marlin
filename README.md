@@ -1,5 +1,17 @@
 # Marlin 3D Printer Firmware
 
+Marlin-2.0.5.2-SKR-1.4-TURBO-with-TMC2209-BLT-FILAMENT-LINADVANCE-JUNKTION-DEVIATION-and-wifi- # Marlin-2.0.5.2-SKR-1.4-TURBO-with-TMC2209-BLT-FILAMENT -LINADVANCE-Junktion-ОТКЛОНЕНИЕ-и-wifi-
+http://marlinfw.org Marlin 2.0.5.2 SKR 1.4 TURBO с TMC2209. BLtouch> Lin Advance> Датчик накаливания> Хлам. Dev.> WIFI> FiL Change> EN> DE> FR> RU
+
+Предназначен для Ender 3 / Ender 3 PRO с платой SKR 1.4 TURBO и драйверами TMC2209. Подготовка платы: контакты должны быть подключены, чтобы они не входили в разъем для подключения датчика к разъему EODET (P_26), BLTOUCH должен быть подключен к выделенному серверу (см. Руководство)
+
+Если у вас есть ESP01S, вы можете выбрать файл EN WIFI, эта прошивка настроена для него. Вы можете выбрать соответствующий датчик, который можно отключить через меню Линейный переход на сегодняшний день стал настоящей печатью. настроить его по ссылке https://marlinfw.org/tools/lin_advance/k-factor.html
+
+Это должно отрегулировать количество шагов на мм.
+
+
+
+
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
