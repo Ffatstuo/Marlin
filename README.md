@@ -1,4 +1,7 @@
 # Marlin 3D Printer Firmware
+Firmware:
+
+Marlin-2.0.x\.pio\build\LPC1769\Firmware.bin
 
 You need this files:
 
