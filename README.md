@@ -12,7 +12,7 @@ FR.7z -French
 
 RU.7z - Russia
 
-
+https://www.patreon.com/user?u=32588184 Donate
 
 Marlin-2.0.5.2-SKR-1.4-TURBO-with-TMC2209-BLT-FILAMENT-LINADVANCE-JUNKTION-DEVIATION-and-wifi- # Marlin-2.0.5.2-SKR-1.4-TURBO-with-TMC2209-BLT-FILAMENT -LINADVANCE-Junktion-ОТКЛОНЕНИЕ-и-wifi-
 http://marlinfw.org Marlin 2.0.5.2 SKR 1.4 TURBO с TMC2209. BLtouch> Lin Advance> Датчик накаливания> Хлам. Dev.> WIFI> FiL Change> EN> DE> FR> RU
