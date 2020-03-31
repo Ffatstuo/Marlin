@@ -27,6 +27,13 @@ If you have ESP01S, you can select the EN WIFI file, this firmware is configured
 
 It is necessary to adjust the steps of the extruder. you can do it through the menu
 
+If the radiator fan does not want to turn on itself, you need to fix this line (configuration_adv.h)
+
+#define E0_AUTO_FAN_PIN -1
+
+to 
+
+#define E0_AUTO_FAN_PIN P2_04
 
 
 
